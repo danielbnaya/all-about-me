@@ -1,9 +1,5 @@
 # UTS-1 All About Me
 
-![About Me](../images/AZRL.png){width=950%}
-
-# UTS-1 All About Me
-
 ![About Me](../images/bnaya.png){width=950%}
 
 Halo, saya **Bnaya Daniel.**  
