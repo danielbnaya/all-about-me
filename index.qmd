@@ -1,8 +1,13 @@
 ---
-title: "Selamat Datang di Portofolio Saya"
+title: "Selamat Datang"
 ---
 
-# Halo, Saya Daniel Benaya 👋
+# Selamat Datang di Portofolio Saya
+
+Halo, Saya **Daniel Benaya** 👋  
 
 Selamat datang di website pribadi saya.  
-Silakan buka halaman [All About Me](All_About_me/) untuk mengenal saya lebih dekat.
+Di sini saya membagikan perjalanan belajar, pengalaman, dan refleksi diri dalam tugas-tugas kuliah.  
+
+Silakan mulai dengan membuka halaman [**All About Me**](All_About_me/index.qmd)  
+untuk mengenal saya lebih dekat.

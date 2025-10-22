@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Portfolio Armein Z. R. Langi (versi Bnaya)"
+  title: "All About Me - Daniel Benaya"
   author: "Daniel Benaya Toar Supaath"
   chapters:
     - index.qmd
