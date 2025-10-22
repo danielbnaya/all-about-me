@@ -9,7 +9,7 @@ title: "UTS-2 My Songs for You"
 ---
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=QqJ-Vp8mvbk&list=RDQqJ-Vp8mvbk&start_radio=1" 
+src="https://www.youtube.com/embed/QqJ-Vp8mvbk?si=nKefyeyYDyymKlvg" 
 title="Tulus - Monokrom (Official Music Video)" 
 frameborder="0" allowfullscreen></iframe>
 
