@@ -1,13 +1,61 @@
 ---
-title: "Selamat Datang"
+title: "Daniel Benaya — Portfolio"
+format:
+  html:
+    toc: false
 ---
 
-# Selamat Datang di Portofolio Saya
+<section style="text-align:center; padding: 60px 20px; background: linear-gradient(135deg, #3b82f6, #6366f1); color: white; border-radius: 0 0 25px 25px;">
+  <h1 style="font-size: 2.8em; font-weight: bold;">Halo, Saya Daniel Benaya 👋</h1>
+  <p style="font-size: 1.1em; margin-top: 15px;">
+    Mahasiswa yang terus tumbuh melalui proses, refleksi, dan karya.<br>
+    II2100 Komunikasi Interpersonal dan Publik | STEI ITB
+  </p>
+</section>
 
-Halo, Saya **Daniel Benaya** 👋  
+<section style="max-width: 800px; margin: 60px auto; text-align: center;">
+  <h2>✨ Tentang Saya</h2>
+  <p style="color: #475569; line-height: 1.7;">
+    Saya adalah seseorang yang tenang, berhati-hati, dan senang belajar hal-hal baru.
+    Saya percaya bahwa setiap proses memiliki makna, dan setiap kegagalan
+    membawa pelajaran berharga. Hidup bagi saya bukan tentang terburu-buru,
+    melainkan tentang terus bertumbuh — sedikit demi sedikit.
+  </p>
+</section>
 
-Selamat datang di website pribadi saya.  
-Di sini saya membagikan perjalanan belajar, pengalaman, dan refleksi diri dalam tugas-tugas kuliah.  
+<section style="text-align:center; background:#f8fafc; padding:50px 20px;">
+  <h2>🎓 Koleksi UTS Saya</h2>
 
-Silakan mulai dengan membuka halaman [**All About Me**](All_About_me/index.qmd)  
-untuk mengenal saya lebih dekat.
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:20px; max-width:900px; margin:40px auto;">
+    
+  <a href="All_About_me/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-1 All About Me</h3>
+    <p>Kisah reflektif tentang diri dan makna perjalanan hidup.</p>
+  </a>
+
+  <a href="My_Song_for_You/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-2 Songs for You</h3>
+    <p>Puisi dan lagu untuk teman-teman yang mewarnai hidup saya.</p>
+  </a>
+
+  <a href="My_Stories_for_You/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-3 My Stories for You</h3>
+    <p>Perjalanan jatuh dan bangkit menuju mimpi besar.</p>
+  </a>
+
+  <a href="My_SHAPE/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-4 My SHAPE</h3>
+    <p>Refleksi potensi diri dan arah kehidupan.</p>
+  </a>
+
+  <a href="My_Personal_Reviews/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-5 My Personal Review</h3>
+    <p>Pemikiran dan pembelajaran dari pengalaman pribadi.</p>
+  </a>
+
+  </div>
+</section>
+
+<footer style="text-align:center; padding:25px; background:#1e293b; color:white; border-radius:20px 20px 0 0;">
+  © 2025 Daniel Benaya — Dibuat dengan 💚 dan semangat belajar
+</footer>
