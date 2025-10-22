@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](../images/bnaya.png){width=950%}
+![About Me](../images/bnaya-profile.png){width=950%}
 
 Halo, saya **Bnaya Daniel.**  
 Saya bukan orang yang banyak bicara, tapi saya suka mengamati — tentang orang, tentang dunia, dan tentang bagaimana hal-hal kecil bisa mengubah cara kita memandang hidup.
