@@ -1,35 +1,25 @@
 ---
-title: "UTS-2: Songs for You"
+title: "UTS-2 My Songs for You"
 ---
 
 # 🎶 UTS-2: Songs for You
-**Tema:** Persahabatan dan Rasa Terima Kasih  
-**Lagu:** *“Monokrom” — Tulus*  
-**Untuk:** Teman-teman yang telah mewarnai hidup saya  
+**Lagu:** *Monokrom – Tulus*  
+**Untuk:** Teman-teman yang telah mewarnai hidup saya
 
 ---
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/TrJ8O9nRzG4" 
+title="Tulus - Monokrom (Official Music Video)" 
+frameborder="0" allowfullscreen></iframe>
+
+---
+
+## 🌈 Untuk Teman-teman yang Mewarnai Hidup Saya
 
 > *“Terima kasih untuk warna dalam hidupku.  
 Untuk setiap kisah yang kita lukis bersama,  
 dalam bingkai waktu yang tidak akan pudar.”*
-
----
-
-## 🎵 Monokrom — Tulus
-
-> Kita hidup di dunia  
-Yang penuh warna  
-Hitam dan putih pun ada  
-Dalam setiap kisahnya  
-
-> Tersenyumlah meski hatimu luka  
-Tersenyumlah meski dunia tak ramah  
-Karena kita punya satu sama lain  
-Teman, sahabat, keluarga, pelengkap perjalanan  
-
----
-
-## 🌷 Untuk Teman-teman yang Mewarnai Hidup Saya
 
 Kepada teman-teman yang telah berjalan bersama saya —  
 terima kasih telah memberi warna di setiap langkah yang saya ambil.  
@@ -57,10 +47,4 @@ saya harap kenangan ini tetap jadi warna yang tidak hilang dimakan waktu.
 
 ---
 
-## 🎧 Dengarkan Lagunya
-
-```{=html}
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/TrJ8O9nRzG4" 
-title="Tulus - Monokrom (Official Music Video)" 
-frameborder="0" allowfullscreen></iframe>
+> *“Kau mungkin tak tahu, tapi kau sudah mengubahku dengan caramu yang tenang.”*
