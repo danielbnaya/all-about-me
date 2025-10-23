@@ -57,5 +57,5 @@ format:
 </section>
 
 <footer style="text-align:center; padding:25px; background:#1e293b; color:white; border-radius:20px 20px 0 0;">
-  © 2025 Daniel Benaya — Dibuat dengan 💚 dan semangat belajar
+  © 2025 Daniel Benaya — Dibuat dengan 💚 
 </footer>
