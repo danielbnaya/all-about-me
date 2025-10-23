@@ -1,0 +1,117 @@
+---
+title: "UTS-5 My Personal Review"
+format:
+  html:
+    toc: true
+    theme: flatly
+---
+
+# 🧩 UTS-5: My Personal Review
+Berikut adalah hasil refleksi dan penilaian terhadap setiap karya dari UTS-1 hingga UTS-4.  
+Halaman ini bertujuan untuk melihat perkembangan diri dalam memahami nilai, refleksi, dan ekspresi personal sepanjang perjalanan pembelajaran.
+
+---
+
+## 🎯 UTS-1: All About Me
+
+::: {.card style="padding:20px; background-color:#f8fafc; border-left:6px solid #2b7a78;"}
+**Penilaian Umum:**  
+Tulisan ini menggambarkan refleksi diri yang jujur dan mendalam. Kamu berhasil mengemas pengalaman pribadi dengan gaya naratif yang tenang namun kuat secara emosional.  
+Bagian “Tentang Cara Saya Berinteraksi” menunjukkan kedewasaan dalam memahami hubungan antar manusia.
+
+**Aspek Penilaian:**
+- 🪶 Orisinalitas: **5 / 5** – Gaya personal dan reflektif, tidak terkesan dibuat-buat.  
+- 💬 Keterlibatan: **5 / 5** – Menarik dari awal hingga akhir.  
+- 💎 Keautentikan: **5 / 5** – Jujur, tulus, dan menyentuh.  
+- 🌟 Inspirasi: **5 / 5** – Menginspirasi pembaca untuk lebih mengenal diri.
+
+**Skor Rata-rata:** ⭐ **5.0 / 5.0**
+
+**Saran Perbaikan:**  
+Tambahkan elemen visual (misalnya kutipan atau gambar ekspresif) agar pembaca lebih terhubung secara emosional.
+:::
+
+---
+
+## 🎶 UTS-2: Songs for You
+
+::: {.card style="padding:20px; background-color:#f8fafc; border-left:6px solid #118ab2;"}
+**Penilaian Umum:**  
+Kamu berhasil mengekspresikan emosi dan rasa terima kasih lewat lagu *Monokrom – Tulus* secara indah dan personal.  
+Refleksi tentang makna persahabatan terasa tulus dan menyentuh, dengan bahasa yang sederhana namun kuat.
+
+**Aspek Penilaian:**
+- 🪶 Orisinalitas: **5 / 5** – Pendekatan personal terhadap lagu yang umum.  
+- 💬 Keterlibatan: **5 / 5** – Alur narasi halus, puitis, dan mengalir alami.  
+- 💎 Keautentikan: **5 / 5** – Menunjukkan rasa tulus dan keterikatan emosional tinggi.  
+- 🌟 Inspirasi: **5 / 5** – Mengingatkan pentingnya rasa syukur dan pertemanan.
+
+**Skor Rata-rata:** ⭐ **5.0 / 5.0**
+
+**Saran Perbaikan:**  
+Dapat ditambahkan refleksi singkat tentang bagaimana lagu ini berpengaruh terhadap perjalanan hidup pribadi.
+:::
+
+---
+
+## 🌙 UTS-3: My Stories for You
+
+::: {.card style="padding:20px; background-color:#f8fafc; border-left:6px solid #06d6a0;"}
+**Penilaian Umum:**  
+Tulisan ini sangat kuat secara emosional. Cerita tentang perjuangan masuk ITB membawa pembaca ikut merasakan jatuh dan bangkitnya semangat.  
+Bagian tentang dukungan keluarga menjadi highlight yang menyentuh dan manusiawi.
+
+**Aspek Penilaian:**
+- 🪶 Orisinalitas: **5 / 5** – Kisah reflektif dengan sudut pandang unik.  
+- 💬 Keterlibatan: **5 / 5** – Cerita mengalir dan emosional.  
+- 💎 Keautentikan: **5 / 5** – Sangat jujur dan berani membuka diri.  
+- 🌟 Inspirasi: **5 / 5** – Memberi pelajaran universal tentang makna perjuangan.
+
+**Skor Rata-rata:** ⭐ **5.0 / 5.0**
+
+**Saran Perbaikan:**  
+Bisa ditambahkan sedikit detail tentang proses belajar setelah gagal, agar pembaca mendapat insight praktis.
+:::
+
+---
+
+## 🌿 UTS-4: My SHAPE
+
+::: {.card style="padding:20px; background-color:#f8fafc; border-left:6px solid #073b4c;"}
+**Penilaian Umum:**  
+Tulisan ini sangat matang dan terstruktur. Kamu menggabungkan konsep S.H.A.P.E dengan refleksi pribadi secara mulus.  
+Setiap bagian (S–H–A–P–E) terasa nyata dan menunjukkan kesadaran diri yang tinggi.
+
+**Aspek Penilaian:**
+- 🪶 Orisinalitas: **5 / 5** – Konsep kuat, dieksekusi personal.  
+- 💬 Keterlibatan: **5 / 5** – Narasi runtut dan elegan.  
+- 💎 Keautentikan: **5 / 5** – Reflektif dan jujur.  
+- 🌟 Inspirasi: **5 / 5** – Mengajak pembaca untuk bertumbuh.
+
+**Skor Rata-rata:** ⭐ **5.0 / 5.0**
+
+**Saran Perbaikan:**  
+Tambahkan contoh nyata penerapan nilai S.H.A.P.E dalam kehidupan sehari-hari agar pembaca lebih mudah terhubung.
+:::
+
+---
+
+## 📊 **Rekapitulasi Skor**
+
+| UTS | Judul | Skor Rata-rata |
+|-----|--------|----------------|
+| 1 | All About Me | ⭐ 5.0 |
+| 2 | Songs for You | ⭐ 5.0 |
+| 3 | My Stories for You | ⭐ 5.0 |
+| 4 | My SHAPE | ⭐ 5.0 |
+| **Rata-rata Keseluruhan** | | **5.0 / 5.0 (Excellent Performance)** |
+
+---
+
+## ✨ Kesimpulan Akhir
+
+Refleksi dari UTS-1 hingga UTS-4 menunjukkan perkembangan yang konsisten dan mendalam.  
+Kamu berhasil menulis dengan jujur, puitis, dan reflektif — memperlihatkan kematangan berpikir dan emosi.  
+Setiap karya bukan hanya tugas akademik, tapi bagian dari perjalanan membangun identitas diri.
+
+> “Menulis bukan sekadar menuangkan kata, tapi mengenali diri melalui setiap maknanya.”

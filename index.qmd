@@ -23,34 +23,39 @@ format:
   </p>
 </section>
 
-<section style="width: 100%; text-align:center; background:#f8fafc; padding:60px 0; display: flex; align-items: center; justify-content: center; flex-direction: column;">
+<section style="text-align:center; background:#f8fafc; padding:50px 20px;">
   <h2>🎓 Koleksi UTS Saya</h2>
 
-  <div style="display:grid; grid-template-columns: repeat(2, 1fr); width: 100%; max-width: 900px; justify-items: center; align-items: stretch; gap:30px; padding: 0 20px;">
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:20px; max-width:900px; margin:40px auto;">
     
-  <a href="All_About_me/index.html" style="background:white; border-radius:16px; padding:25px; width: 100%; max-width = 380px;  text-decoration: none; color:#1e293b; box-shadow:0 4px 10px rgba(0,0,0,0.05); transition: all 0.3s ease; text-align:left;">
+  <a href="All_About_me/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <h3>UTS-1 All About Me</h3>
     <p>Kisah reflektif tentang diri dan makna perjalanan hidup.</p>
   </a>
 
-  <a href="My_Song_for_You/index.html" style="background:white; border-radius:16px; padding:25px; width: 100%; max-width = 380px;  text-decoration: none; color:#1e293b; box-shadow:0 4px 10px rgba(0,0,0,0.05); transition: all 0.3s ease; text-align:left;">
+  <a href="My_Song_for_You/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <h3>UTS-2 Songs for You</h3>
     <p>Puisi dan lagu untuk teman-teman yang mewarnai hidup saya.</p>
   </a>
 
-  <a href="My_Stories_for_You/index.html" style="background:white; border-radius:16px; padding:25px; width: 100%; max-width = 380px;  text-decoration: none; color:#1e293b; box-shadow:0 4px 10px rgba(0,0,0,0.05); transition: all 0.3s ease; text-align:left;">
+  <a href="My_Stories_for_You/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <h3>UTS-3 My Stories for You</h3>
     <p>Perjalanan jatuh dan bangkit menuju mimpi besar.</p>
   </a>
 
-  <a href="My_Shapes/index.html" style="background:white; border-radius:16px; padding:25px; width: 100%; max-width = 380px;  text-decoration: none; color:#1e293b; box-shadow:0 4px 10px rgba(0,0,0,0.05); transition: all 0.3s ease; text-align:left;">
+  <a href="My_SHAPE/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <h3>UTS-4 My SHAPE</h3>
     <p>Refleksi potensi diri dan arah kehidupan.</p>
+  </a>
+
+  <a href="My_Personal_Reviews/index.html" style="background:white; border-radius:12px; padding:20px; text-decoration:none; color:#1e293b; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3>UTS-5 My Personal Review</h3>
+    <p>Pemikiran dan pembelajaran dari pengalaman pribadi.</p>
   </a>
 
   </div>
 </section>
 
 <footer style="text-align:center; padding:25px; background:#1e293b; color:white; border-radius:20px 20px 0 0;">
-  © 2025 Daniel Benaya — Dibuat dengan 💚 
+  © 2025 Daniel Benaya — Dibuat dengan 💚 dan semangat belajar
 </footer>

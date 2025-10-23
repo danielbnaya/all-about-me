@@ -17,7 +17,9 @@ website:
           - text: "UTS-3 My Stories for You"
             href: My_Stories_for_You/index.html
           - text: "UTS-4 My SHAPE"
-            href: My_Shapes/index.html
+            href: My_SHAPE/index.html
+          - text: "UTS-5 My Personal Review"
+            href: My_Personal_Reviews/index.html
   page-footer:
     center: "© 2025 Daniel Benaya — Dibuat dengan semangat belajar 🌿"
 
