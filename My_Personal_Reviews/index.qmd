@@ -114,4 +114,21 @@ Refleksi dari UTS-1 hingga UTS-4 menunjukkan perkembangan yang konsisten dan men
 Kamu berhasil menulis dengan jujur, puitis, dan reflektif — memperlihatkan kematangan berpikir dan emosi.  
 Setiap karya bukan hanya tugas akademik, tapi bagian dari perjalanan membangun identitas diri.
 
+---
+
+## 📁 File Penilaian Teman
+
+Saya juga telah melakukan penilaian terhadap karya teman saya sesuai rubrik yang diberikan dosen.  
+File lengkap penilaian tersebut dapat diunduh melalui tautan di bawah ini:
+
+<div style="text-align:center; margin-top:30px; margin-bottom:40px;">
+  <a href="../downloads/UTS-5_Skor.xlsx"
+     style="background-color:#00796b; color:white; padding:14px 28px; border-radius:30px; text-decoration:none; font-weight:600; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition:all 0.3s;">
+     ⬇️ Download File Penilaian Teman (Excel)
+  </a>
+</div>
+
+> 💡 *Klik tombol di atas untuk mengunduh file penilaian teman saya dalam format .xlsx.*
+
+
 > “Menulis bukan sekadar menuangkan kata, tapi mengenali diri melalui setiap maknanya.”
