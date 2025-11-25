@@ -1,8 +1,8 @@
 ---
-title: "UTS-3 My Stories for You"
+title: "UTS-3 — My Stories for You"
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: ../styles.css
 ---
 
@@ -20,10 +20,9 @@ Hasilnya keluar, dan nama saya tidak ada di daftar.
 Dunia rasanya berhenti. Semua usaha, doa, dan waktu yang saya curahkan seolah tidak berarti apa-apa.  
 Yang paling menyakitkan bukan sekadar gagal,  
 tapi **rasa kecewa pada diri sendiri** —  
-karena saya merasa sudah diberikan begitu banyak oleh orang tua:...fasilitas les, dukungan penuh, bahkan keyakinan bahwa saya bisa.
+karena saya merasa sudah diberikan begitu banyak oleh orang tua: fasilitas les, dukungan penuh, bahkan keyakinan bahwa saya bisa.
 
-...
-Teman-teman saya juga tidak menjauh; mereka malah menjadi tempat... bahwa nilai diri saya tidak ditentukan oleh hasil ujian semata.
+Teman-teman saya juga tidak menjauh; mereka malah menjadi tempat penopang. Mereka mengingatkan bahwa nilai diri saya tidak ditentukan oleh hasil ujian semata.
 
 Dari situ saya belajar bahwa **kegagalan bukan tanda akhir, tapi awal dari perjalanan baru**.  
 Saya mulai belajar lagi — bukan hanya tentang pelajaran akademik, tapi tentang keteguhan, keikhlasan, dan arti dukungan.  
@@ -37,6 +36,6 @@ Hingga akhirnya, saya diterima di **ITB**, kampus yang dulu terasa seperti mimpi
 ### 💭 Refleksi
 Kalau saya menoleh ke masa itu, saya tidak lagi melihat kegagalan.  
 Saya melihat **sebuah proses pembentukan diri**.  
-Saya belajar bahwa 
+Saya belajar bahwa ...
 
 </div>

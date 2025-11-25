@@ -1,11 +1,14 @@
 ---
 title: "UTS-1 — All About Me"
-format: html
+format:
+  html:
+    theme: cosmo
+    css: ../styles.css
 ---
 
 <div class="hero">
   <h1>🌙 All About Me</h1>
-  <p>Refleksi diri dalam tema futuristik & tenang.</p>
+  <p class="lead">Refleksi diri dalam tema futuristik & tenang.</p>
 </div>
 
 <div class="card">

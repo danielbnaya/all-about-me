@@ -1,36 +1,36 @@
 ---
-title: "UTS-4 — My SHAPE"
-format: html
+title: "UTS-2 — Songs for You"
+format:
+  html:
+    theme: cosmo
+    css: ../styles.css
 ---
 
 <div class="hero">
-  <h1>🧬 My S.H.A.P.E</h1>
-  <p>Refleksi jati diri dalam kerangka futuristik.</p>
+  <h1>🎶 Songs for You</h1>
+  <p class="lead">Neon vibes for meaningful memories.</p>
 </div>
 
 <div class="card">
-  <h2>S — Signature Strengths</h2>
-  <p>Ketenangan, empati, ketekunan.</p>
+  <h2>🎧 Lagu Pilihan</h2>
+  <p><b>Monokrom – Tulus</b></p>
+  <div class="video-wrap">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QqJ-Vp8mvbk?si=nKefyeyYDyymKlvg" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 <div class="card">
-  <h2>H — Core Values</h2>
-  <p>Tanggung jawab dan keinginan untuk bertumbuh.</p>
-</div>
-
-<div class="card">
-  <h2>A — Aptitudes</h2>
-  <p>Analisis kuat, ketelitian tinggi, kemampuan komunikasi berkembang.</p>
-</div>
-
-<div class="card">
-  <h2>P — Psychometric Profile</h2>
-  <p>Introvert reflektif yang bekerja optimal dalam lingkungan aman.</p>
-</div>
-
-<div class="card">
-  <h2>E — Narrative Identity</h2>
+  <h2>🌈 Untuk Teman-teman</h2>
   <p>
-    Pengalaman gagal → bangkit → diterima ITB membentuk identitas baru.
+    Kalian memberi warna dalam hidup saya.  
+    Tidak semua warna terang—namun semuanya membentuk lukisan yang indah.
+  </p>
+</div>
+
+<div class="card">
+  <h2>💭 Refleksi</h2>
+  <p>
+    Monokrom mengingatkan saya bahwa setiap orang membawa warnanya.  
+    Teman-teman membuat saya bertumbuh, menjadi lebih kuat, lebih manusiawi.
   </p>
 </div>

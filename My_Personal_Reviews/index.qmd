@@ -1,11 +1,14 @@
 ---
 title: "UTS-5 — My Personal Reviews"
-format: html
+format:
+  html:
+    theme: cosmo
+    css: ../styles.css
 ---
 
 <div class="hero">
   <h1>⭐ My Personal Reviews</h1>
-  <p>Penilaian untuk teman — tersedia dalam berkas unduhan.</p>
+  <p class="lead">Penilaian untuk teman — tersedia dalam berkas unduhan.</p>
 </div>
 
 <div class="card">
