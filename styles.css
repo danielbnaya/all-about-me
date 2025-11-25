@@ -1,60 +1,56 @@
-/* Background global */
+/* ==== GLOBAL STYLE ==== */
 body {
-  background: #0a0a0f;
-  color: #d7d7e0;
-  font-family: 'Inter', sans-serif;
+  background: #f8f9fc;
+  font-family: "Segoe UI", sans-serif;
 }
 
-/* Glow Text */
-h1, h2, h3 {
-  color: #c8b6ff;
-  text-shadow: 0 0 10px rgba(150, 100, 255, 0.8);
-}
-
-/* Hero Section */
+/* ==== HERO SECTION ==== */
 .hero {
-  padding: 80px 20px;
   text-align: center;
-  background: linear-gradient(135deg, #1f0036, #000814);
-  border-bottom: 1px solid #5a2cff;
-  box-shadow: 0 0 40px rgba(90, 44, 255, 0.4);
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, #4f8cff, #6cd3ff);
+  color: white;
+  border-radius: 20px;
+  margin-bottom: 2rem;
 }
 
-/* Card Futuristik */
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 25px;
-  margin-top: 40px;
+.hero-img {
+  width: 120px;
+  border-radius: 12px;
+  margin-bottom: 1rem;
 }
 
-.card {
-  background: rgba(20, 20, 30, 0.85);
-  padding: 25px;
+.subtitle {
+  font-size: 1.3rem;
+  opacity: 0.9;
+}
+
+/* ==== CONTENT CARD ==== */
+.content-card, .story-card {
+  background: white;
+  padding: 2rem;
   border-radius: 16px;
-  border: 1px solid #4422aa;
-  box-shadow: 0 0 15px rgba(90, 44, 255, 0.3);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  margin-top: 2rem;
+  line-height: 1.7;
 }
 
-.card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 0 30px rgba(120, 60, 255, 0.6);
+/* ==== PAGE TITLES ==== */
+.page-title h1 {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1f5fbf;
 }
 
-/* Links */
+/* ==== LINK STYLE ==== */
 a {
-  color: #9d7dff;
-  text-decoration: none;
+  color: #1f5fbf;
+  font-weight: 600;
 }
 
 a:hover {
-  color: #d0b3ff;
-  text-shadow: 0 0 8px rgba(120, 60, 255, 0.8);
-}
-
-/* Neon Button */
-.neon-btn {
-  display: inline-block;
-  padding: 12
+  text-decoration: none;
+  opacity: 0.8;
 }

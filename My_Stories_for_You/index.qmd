@@ -1,41 +1,42 @@
 ---
-title: "UTS-3 — My Stories for You"
-format: html
+title: "UTS-3 My Stories for You"
+format:
+  html:
+    theme: flatly
+    css: ../styles.css
 ---
 
-<div class="hero">
-  <h1>🌙 My Stories for You</h1>
-  <p>Kisah jatuh, bangkit, dan menemukan makna.</p>
+<div class="page-title">
+  <h1>🌙 Gagal, Bangkit, dan Bersyukur</h1>
 </div>
 
-<div class="card">
-  <h2>💔 Kegagalan yang Mengubah Saya</h2>
-  <p>
-    Saya gagal masuk ITB lewat UTBK.  
-    Itu masa tergelap saya—marah, kecewa, merasa tidak cukup.
-  </p>
-</div>
+<div class="story-card">
 
-<div class="card">
-  <h2>❤️ Dukungan yang Menjadi Cahaya</h2>
-  <p>
-    Orang tua tidak marah.  
-    Teman-teman tetap ada.  
-    Di titik itu saya belajar arti kasih yang tidak bersyarat.
-  </p>
-</div>
+Ada satu masa dalam hidup saya yang tidak akan pernah saya lupakan —  
+masa ketika saya **gagal masuk ITB lewat UTBK**.
 
-<div class="card">
-  <h2>🚀 Kembali Bangkit</h2>
-  <p>
-    Saya memperbaiki cara belajar saya.  
-    Saya mencoba lagi—dan akhirnya diterima di <b>ITB</b>.
-  </p>
-</div>
+Saya masih ingat jelas hari itu.  
+Hasilnya keluar, dan nama saya tidak ada di daftar.  
+Dunia rasanya berhenti. Semua usaha, doa, dan waktu yang saya curahkan seolah tidak berarti apa-apa.  
+Yang paling menyakitkan bukan sekadar gagal,  
+tapi **rasa kecewa pada diri sendiri** —  
+karena saya merasa sudah diberikan begitu banyak oleh orang tua:...fasilitas les, dukungan penuh, bahkan keyakinan bahwa saya bisa.
 
-<div class="card">
-  <h2>✨ Pesan</h2>
-  <blockquote>
-    “Kegagalan bukan akhir. Ia adalah pintu menuju diri yang baru.”
-  </blockquote>
+...
+Teman-teman saya juga tidak menjauh; mereka malah menjadi tempat... bahwa nilai diri saya tidak ditentukan oleh hasil ujian semata.
+
+Dari situ saya belajar bahwa **kegagalan bukan tanda akhir, tapi awal dari perjalanan baru**.  
+Saya mulai belajar lagi — bukan hanya tentang pelajaran akademik, tapi tentang keteguhan, keikhlasan, dan arti dukungan.  
+Dan perlahan, saya bangkit.  
+Saya belajar memperbaiki cara belajar saya, memperkuat niat, dan berusaha tanpa beban berlebihan.
+
+Hingga akhirnya, saya diterima di **ITB**, kampus yang dulu terasa seperti mimpi yang gagal saya genggam.
+
+---
+
+### 💭 Refleksi
+Kalau saya menoleh ke masa itu, saya tidak lagi melihat kegagalan.  
+Saya melihat **sebuah proses pembentukan diri**.  
+Saya belajar bahwa 
+
 </div>

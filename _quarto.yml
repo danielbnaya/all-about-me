@@ -5,28 +5,23 @@ project:
 website:
   title: "All About Me"
   navbar:
-    background: "#0a0a0f"
-    foreground: "#e0e0ff"
-    search: true
-    left:
-      - href: index.qmd
-        text: "Home"
-      - href: All_About_me/index.qmd
-        text: "UTS 1"
-      - href: My_Song_for_You/index.qmd
-        text: "UTS 2"
-      - href: My_Stories_for_You/index.qmd
-        text: "UTS 3"
-      - href: My_Shapes/index.qmd
-        text: "UTS 4"
-      - href: My_Personal_Reviews/index.qmd
-        text: "UTS 5"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "UTS 1"
+        href: All_About_me/index.qmd
+      - text: "UTS 2"
+        href: My_Song_for_You/index.qmd
+      - text: "UTS 3"
+        href: My_Stories_for_You/index.qmd
+      - text: "UTS 4"
+        href: My_Shapes/index.qmd
+      - text: "UTS 5"
+        href: My_Personal_Reviews/index.qmd
 
 format:
   html:
-    theme: cyborg
+    theme: default
     css: styles.css
     toc: false
     page-layout: full
-
-editor: visual
