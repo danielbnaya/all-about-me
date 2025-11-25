@@ -1,29 +1,43 @@
 ---
-title: "Selamat Datang"
-format:
+title: "All About Me"
+format: 
   html:
-    theme: cosmo
+    toc: false
     css: styles.css
-navbar:
-  title: "My Portfolio"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "All About Me"
-      href: All_About_me/index.html
-    - text: "My Stories for You"
-      href: My_Stories_for_You/index.html
 ---
 
+<style>
+/* tambahan kecil yang hanya berlaku di halaman utama */
+.hero { margin: 48px auto; max-width:1200px; }
+</style>
+
 <div class="hero">
-  <img src="cover.png" class="hero-img">
-  <h1>Selamat Datang di Portofolio Saya</h1>
-  <p class="subtitle">Halo, Saya <b>Daniel Benaya</b> 👋</p>
+  <h1 class="hero-title">Halo — Saya Daniel Benaya 👋</h1>
+  <p class="hero-sub">Mahasiswa | II2100 Komunikasi Interpersonal & Publik — STEI ITB</p>
 </div>
 
-<div class="content-card">
-Selamat datang di website pribadi saya.<br>
-Di sini saya membagikan perjalanan belajar, pengalaman, dan refleksi diri dalam tugas-tugas kuliah.
-<br><br>
-👉 <a href="All_About_me/index.html"><b>All About Me</b></a>
-</div>
+<section class="card-grid">
+  <article class="card">
+    <h3>✨ Tentang Saya</h3>
+    <p>Saya tenang, reflektif, dan terus tumbuh melalui proses.</p>
+    <a href="All_About_me/index.qmd" class="btn">Baca selengkapnya</a>
+  </article>
+
+  <article class="card">
+    <h3>🎵 UTS: My Songs</h3>
+    <p>Kompilasi lagu & refleksi.</p>
+    <a href="My_Song_for_You/index.qmd" class="btn">Buka</a>
+  </article>
+
+  <article class="card">
+    <h3>📚 UTS: Stories</h3>
+    <p>Kisah pribadi dan pembelajaran.</p>
+    <a href="My_Stories_for_You/index.qmd" class="btn">Baca</a>
+  </article>
+
+  <article class="card">
+    <h3>🔬 My SHAPE</h3>
+    <p>Refleksi kekuatan, nilai, keterampilan.</p>
+    <a href="My_Shapes/index.qmd" class="btn">Lihat</a>
+  </article>
+</section>

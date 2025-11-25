@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: docs
 
-website:
+site:
   title: "All About Me"
   navbar:
-    right:
+    left:
       - text: "Home"
         href: index.qmd
       - text: "UTS 1"
@@ -18,10 +18,19 @@ website:
         href: My_Shapes/index.qmd
       - text: "UTS 5"
         href: My_Personal_Reviews/index.qmd
+    right:
+      - icon: search
+  favicon: images/cover.png
 
 format:
   html:
-    theme: default
+    theme: null
     css: styles.css
     toc: false
-    page-layout: full
+    math: false
+    self-contained: false
+    enable-search: true
+
+publish:
+  branch: main
+  provider: github
