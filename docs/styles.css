@@ -1,0 +1,152 @@
+/* =========================
+   Soft Modern — styles.css
+   =========================
+   - Light, airy, blue accent
+   - Responsive grid, card system
+   - Use on root (pages use ../styles.css where needed)
+*/
+
+/* --- Reset & base --- */
+:root{
+  --bg: #f7f9fc;
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #2f6fd6;
+  --accent-2: #6ab7ff;
+  --shadow: 0 8px 30px rgba(47,111,214,0.08);
+  --radius: 14px;
+  --maxw: 1100px;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: Inter, "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, var(--bg), #ffffff 120%);
+  color:#172031;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  line-height:1.6;
+  padding: 32px 24px;
+}
+
+/* --- container & grid --- */
+.container{
+  max-width:var(--maxw);
+  margin:0 auto;
+  padding:0 18px;
+}
+.grid-3{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+  gap:20px;
+}
+
+/* --- hero --- */
+.hero{
+  background: linear-gradient(90deg, rgba(47,111,214,0.08), rgba(106,176,255,0.06));
+  border-radius: var(--radius);
+  padding:28px;
+  box-shadow: var(--shadow);
+  margin-bottom:20px;
+}
+.hero-main .hero-inner{
+  display:flex;
+  align-items:center;
+  gap:20px;
+}
+.hero-avatar{
+  width:110px;
+  height:110px;
+  border-radius:12px;
+  object-fit:cover;
+  box-shadow: 0 10px 30px rgba(20,30,80,0.08);
+  border: 3px solid rgba(255,255,255,0.6);
+}
+.hero h1{
+  margin:0 0 8px 0;
+  font-size:1.9rem;
+  color: #0f2460;
+}
+.lead{
+  color:var(--muted);
+  margin:0 0 12px 0;
+}
+
+/* --- cards --- */
+.card, .info-card, .story-card{
+  background: var(--card);
+  padding:18px;
+  border-radius:12px;
+  box-shadow: var(--shadow);
+}
+.info-card h3{margin:0 0 8px 0;color:#0f2460}
+.info-card p{color:var(--muted);margin:0 0 12px 0}
+
+/* --- story --- */
+.page-title h1{margin:0 0 10px 0;color:#0f2460}
+.story-card{line-height:1.8; padding:22px; font-size:1rem}
+
+/* --- images in cards --- */
+.card img{max-width:160px; float:left; margin-right:18px; border-radius:10px}
+
+/* --- buttons & links --- */
+a.btn-primary{
+  display:inline-block;
+  background: linear-gradient(90deg,var(--accent),var(--accent-2));
+  color:white;
+  padding:10px 16px;
+  border-radius:10px;
+  text-decoration:none;
+  box-shadow:0 8px 20px rgba(47,111,214,0.18);
+}
+a.link-inline{color:var(--accent); text-decoration:none; font-weight:600}
+a.neon-btn{
+  display:inline-block;
+  padding:10px 14px;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:700;
+  color:var(--accent);
+  background: rgba(47,111,214,0.06);
+  border: 1px solid rgba(47,111,214,0.12);
+  box-shadow: 0 6px 18px rgba(47,111,214,0.06);
+}
+
+/* --- layout intro section --- */
+.container-intro{
+  max-width:var(--maxw);
+  margin:18px auto;
+  padding:0 18px;
+}
+
+/* --- responsive video wrapper --- */
+.video-wrap{
+  position:relative;
+  padding-bottom:56.25%;
+  height:0;
+}
+.video-wrap iframe{
+  position:absolute;
+  top:0; left:0;
+  width:100%; height:100%;
+  border-radius:10px;
+  border: none;
+}
+
+/* --- blockquote --- */
+blockquote{
+  margin:0;
+  padding:12px 18px;
+  background: linear-gradient(90deg, rgba(47,111,214,0.03), rgba(106,176,255,0.02));
+  border-left:4px solid var(--accent);
+  color:#123;
+  border-radius:8px;
+}
+
+/* --- small utilities --- */
+@media (max-width:800px){
+  .hero-main .hero-inner{flex-direction:column; text-align:center}
+  .card img{float:none; display:block; margin:0 auto 12px auto}
+  body{padding:20px 14px}
+}

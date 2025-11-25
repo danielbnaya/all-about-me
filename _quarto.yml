@@ -2,35 +2,24 @@ project:
   type: website
   output-dir: docs
 
-site:
-  title: "All About Me"
+website:
+  title: "Daniel Benaya"
   navbar:
     left:
       - text: "Home"
-        href: index.qmd
-      - text: "UTS 1"
-        href: All_About_me/index.qmd
-      - text: "UTS 2"
-        href: My_Song_for_You/index.qmd
-      - text: "UTS 3"
-        href: My_Stories_for_You/index.qmd
-      - text: "UTS 4"
-        href: My_Shapes/index.qmd
-      - text: "UTS 5"
-        href: My_Personal_Reviews/index.qmd
-    right:
-      - icon: search
-  favicon: images/cover.png
+        href: index.html
+      - text: "All About Me"
+        href: All_About_me/index.html
+      - text: "My Stories"
+        href: My_Stories_for_You/index.html
+      - text: "Songs"
+        href: My_Song_for_You/index.html
+      - text: "Reviews"
+        href: My_Personal_Reviews/index.html
+      - text: "S.H.A.P.E"
+        href: My_Shapes/index.html
 
 format:
   html:
-    theme: null
+    theme: cosmo
     css: styles.css
-    toc: false
-    math: false
-    self-contained: false
-    enable-search: true
-
-publish:
-  branch: main
-  provider: github
