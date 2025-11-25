@@ -3,30 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "Daniel Benaya — Portfolio"
+  title: "All About Me"
   navbar:
-    right:
-      - text: "Home"
-        href: index.html
-      - text: "UTS"
-        menu:
-          - text: "UTS-1 All About Me"
-            href: All_About_me/index.html
-          - text: "UTS-2 Songs for You"
-            href: My_Song_for_You/index.html
-          - text: "UTS-3 My Stories for You"
-            href: My_Stories_for_You/index.html
-          - text: "UTS-4 My SHAPE"
-            href: My_SHAPE/index.html
-          - text: "UTS-5 My Personal Review"
-            href: My_Personal_Reviews/index.html
-  page-footer:
-    center: "© 2025 Daniel Benaya — Dibuat dengan semangat belajar 🌿"
+    background: "#0a0a0f"
+    foreground: "#e0e0ff"
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: All_About_me/index.qmd
+        text: "UTS 1"
+      - href: My_Song_for_You/index.qmd
+        text: "UTS 2"
+      - href: My_Stories_for_You/index.qmd
+        text: "UTS 3"
+      - href: My_Shapes/index.qmd
+        text: "UTS 4"
+      - href: My_Personal_Reviews/index.qmd
+        text: "UTS 5"
 
 format:
   html:
-    theme: flatly
-    toc: false
-    smooth-scroll: true
+    theme: cyborg
     css: styles.css
-    allow-html: true
+    toc: false
+    page-layout: full
+
+editor: visual

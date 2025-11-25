@@ -1,64 +1,53 @@
-# UTS-1 All About Me
-
-![About Me](../images/bnaya-profile.png){width=950%}
-
-Halo, saya **Daniel Benaya Toar Supaath.**  
-Saya bukan orang yang banyak bicara, tapi saya suka mengamati — tentang orang, tentang dunia, dan tentang bagaimana hal-hal kecil bisa mengubah cara kita memandang hidup.
-
-Saya cenderung **tenang dan santai**, jarang mencari masalah, dan lebih sering menenangkan suasana daripada memperkeruhnya. Saya menikmati hal-hal sederhana: duduk santai sambil mendengarkan cerita orang lain, belajar hal baru di waktu senggang, atau sekadar berpikir tentang hal-hal yang belum tentu penting tapi terasa menarik.  
-Bagi saya, hidup tidak harus selalu tergesa-gesa; yang penting adalah kita tetap tumbuh, sedikit demi sedikit.
-
+---
+title: "UTS-1 — All About Me"
+format: html
 ---
 
-## **Tentang Cara Saya Berinteraksi**
+<div class="hero">
+  <h1>🌙 All About Me</h1>
+  <p>Refleksi diri dalam tema futuristik & tenang.</p>
+</div>
 
-Dalam pertemanan dan hubungan sosial, saya **lebih nyaman menjadi pendengar**.  
-Ada sesuatu yang menyenangkan saat mendengarkan orang lain bercerita — bukan hanya karena saya ingin tahu kisah mereka, tapi karena dari sana saya sering belajar banyak tentang kehidupan dan cara berpikir yang berbeda.  
+<div class="card">
+  ![](../images/bnaya-profile.png)
 
-Tapi jangan salah, di balik sikap kalem itu saya juga **suka bercanda.**  
-Saya percaya bahwa tawa adalah cara paling sederhana untuk membuat orang merasa dekat dan nyaman.  
-Bercanda bagi saya bukan sekadar lucu-lucuan, tapi cara untuk menjaga hubungan tetap ringan dan hangat.
+  <h2>✨ Siapa Saya?</h2>
+  <p>
+    Halo, saya <b>Daniel Benaya Toar Supaath</b>.  
+    Saya pribadi yang tenang, observatif, dan lebih senang memahami daripada berbicara.
+    Hidup bagi saya adalah perjalanan bertahap—perlahan namun pasti.
+  </p>
+</div>
 
----
+<div class="card">
+  <h2>🤝 Cara Saya Berinteraksi</h2>
+  <p>
+    Saya pendengar yang baik dan percaya bahwa tawa menciptakan kedekatan.  
+    Bagi saya, hubungan dibangun dari ruang aman, bukan dari kebisingan.
+  </p>
+</div>
 
-## **Kisah yang Membentuk Saya**
+<div class="card">
+  <h2>🌱 Kisah yang Membentuk Saya</h2>
+  <p>
+    Ada masa di mana ketakutan membuat saya berhenti melangkah.  
+    Namun saya belajar bahwa keberanian bukan tentang tidak takut—melainkan tetap berjalan meski takut.
+  </p>
+</div>
 
-Saya pernah berada di situasi di mana saya terlalu takut untuk mencoba hal baru karena khawatir gagal.  
-Tapi suatu saat, saya menyadari bahwa **tidak ada yang bisa kita pelajari dari diam di tempat.**  
-Akhirnya saya memberanikan diri untuk mulai — bahkan kalau hasilnya belum tentu sempurna.  
-Dari situ saya belajar bahwa keberanian bukan berarti tidak takut, tapi tetap melangkah walau takut.  
-Dan dari setiap langkah kecil itu, saya menemukan rasa percaya diri yang baru.
+<div class="card">
+  <h2>💡 Nilai yang Saya Pegang</h2>
+  <p>
+    Saya percaya pada tanggung jawab, ketenangan, belajar terus, dan menjadi tempat aman bagi orang lain.
+  </p>
+</div>
 
-Sejak saat itu, saya berusaha untuk terus terbuka terhadap hal-hal baru — baik itu pelajaran, pengalaman, atau orang-orang baru yang saya temui.
-
----
-
-## **Nilai yang Saya Pegang**
-
-Saya berusaha hidup dengan hati-hati, bukan karena takut salah, tapi karena saya percaya setiap tindakan punya konsekuensi.  
-Saya ingin menjadi pribadi yang membuat orang lain merasa aman — seseorang yang bisa dipercaya untuk mendengarkan tanpa menghakimi.  
-Bagi saya, mendengarkan itu bukan sekadar diam, tapi memberi ruang bagi orang lain untuk benar-benar didengar.
-
-Saya juga percaya bahwa **belajar tidak pernah berhenti.**  
-Dunia berubah cepat, dan saya ingin terus berkembang — bukan untuk menjadi sempurna, tapi untuk lebih memahami diri sendiri dan orang lain.
-
----
-
-## **Refleksi dan Harapan**
-
-Kalau saya harus merangkum diri saya dalam satu kalimat, mungkin begini:  
-> “Saya bukan orang yang banyak bicara, tapi saya selalu berusaha memahami.”
-
-Saya ingin terus menjadi pribadi yang tenang namun terbuka, hati-hati tapi berani mencoba, pendengar yang baik tapi juga mampu menyuarakan hal yang benar.  
-Saya tahu perjalanan ini masih panjang, tapi saya menikmati prosesnya.  
-
-> *“Kadang langkah kecil yang kita ambil dengan tenang bisa membawa kita ke tempat yang jauh.”*
-
-Itu adalah motto hidup yang saya pegang — sederhana, tapi mengingatkan saya bahwa tidak perlu terburu-buru untuk menjadi versi terbaik dari diri sendiri.  
-Yang penting adalah tetap bergerak, perlahan tapi pasti.
-
----
-
-Terima kasih sudah membaca halaman ini.  
-Semoga sedikit cerita tentang saya bisa memberi gambaran siapa saya sebenarnya — seseorang yang masih belajar, tapi selalu berusaha menjadi lebih baik dari kemarin.
-
+<div class="card">
+  <h2>🌟 Refleksi & Harapan</h2>
+  <blockquote>
+    "Saya bukan orang yang banyak bicara, tapi saya selalu berusaha memahami."
+  </blockquote>
+  <p>
+    Saya ingin bertumbuh menjadi versi terbaik dari diri saya—perlahan, tenang, dan penuh makna.
+  </p>
+</div>

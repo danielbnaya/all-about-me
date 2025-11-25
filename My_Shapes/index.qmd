@@ -1,78 +1,36 @@
 ---
-title: "UTS-4 My SHAPE"
+title: "UTS-4 — My SHAPE"
+format: html
 ---
 
-# 🌿 Menemukan Bentuk Diri (S.H.A.P.E)
+<div class="hero">
+  <h1>🧬 My S.H.A.P.E</h1>
+  <p>Refleksi jati diri dalam kerangka futuristik.</p>
+</div>
 
-Setiap orang memiliki “bentuk” uniknya sendiri — cara berpikir, merasa, dan bertindak yang dibentuk oleh pengalaman dan nilai-nilai hidupnya.  
-Kerangka **S.H.A.P.E** membantu saya mengenali siapa diri saya, apa yang saya kuasai, dan bagaimana saya bisa memberi dampak positif di sekitar saya.
+<div class="card">
+  <h2>S — Signature Strengths</h2>
+  <p>Ketenangan, empati, ketekunan.</p>
+</div>
 
----
+<div class="card">
+  <h2>H — Core Values</h2>
+  <p>Tanggung jawab dan keinginan untuk bertumbuh.</p>
+</div>
 
-## 🧭 Tabel Konsep Dasar MySHAPE
+<div class="card">
+  <h2>A — Aptitudes</h2>
+  <p>Analisis kuat, ketelitian tinggi, kemampuan komunikasi berkembang.</p>
+</div>
 
-| **MySHAPE** | **Konsep Inti** |
-|--------------|-----------------|
-| **S – Signature Strengths** | Pola pemikiran, perasaan, dan perilaku bawaan yang berkerja tinggi dan mengarah pada keunggulan. Berakar pada psikologi positif. |
-| **H – Core Values & Intrinsic Motivations** | Prinsip-prinsip panduan yang tidak dapat dinegosiasikan dan pendorong internal yang memberikan energi dan kepuasan. |
-| **A – Aptitudes & Acquired Skills** | Bakat alami yang dikombinasikan dengan kompetensi, pengetahuan, dan keahlian yang diperoleh melalui pendidikan dan praktik. |
-| **P – Psychometric Profile** | Preferensi dan kecenderungan perilaku yang dapat diukur dan membentuk gaya kerja dan interaksi. |
-| **E – Narrative Identity & Post-Traumatic Growth** | Kisah hidup yang koheren yang membentuk identitas, serta pertumbuhan psikologis positif yang dihasilkan dari kesulitan. |
+<div class="card">
+  <h2>P — Psychometric Profile</h2>
+  <p>Introvert reflektif yang bekerja optimal dalam lingkungan aman.</p>
+</div>
 
----
-
-## 🌱 Refleksi Pribadi Saya
-
-### 💪 **S – Signature Strengths**
-Saya menyadari bahwa kekuatan utama saya ada pada **ketenangan, empati, dan ketekunan.**  
-Saya tidak mudah panik, cenderung berpikir rasional dalam tekanan, dan berusaha memahami orang lain dengan tulus.  
-Kekuatan ini membuat saya bisa menjadi pendengar yang baik dan teman yang dapat diandalkan.
-
-> Saya percaya bahwa kekuatan sejati tidak selalu tampak mencolok — terkadang ia hadir dalam ketenangan dan kehadiran yang menenangkan.
-
----
-
-### ❤️ **H – Core Values & Intrinsic Motivation**
-Nilai yang paling saya pegang adalah **tanggung jawab dan kasih terhadap sesama.**  
-Saya percaya setiap usaha sekecil apa pun akan berarti jika dilakukan dengan niat baik.  
-Motivasi saya datang dari keinginan untuk **menjadi versi terbaik dari diri sendiri**, bukan untuk mengalahkan orang lain, tetapi untuk terus bertumbuh.
-
----
-
-### 🧠 **A – Aptitudes & Acquired Skills**
-Saya memiliki kemampuan analisis dan ketelitian yang tinggi.  
-Di sisi akademik, saya senang memecahkan masalah logis dan memahami konsep secara mendalam.  
-Namun, saya juga mengembangkan keterampilan komunikasi dan kolaborasi agar bisa bekerja efektif dalam tim.  
-Gabungan antara kemampuan teknis dan sosial inilah yang terus saya latih agar seimbang.
-
----
-
-### 💬 **P – Psychometric Profile**
-Saya termasuk pribadi **introvert reflektif.**  
-Saya lebih nyaman memproses sesuatu secara mendalam sebelum berbicara,  
-dan cenderung fokus pada kualitas interaksi dibanding kuantitas.  
-Namun, dalam lingkungan yang mendukung, saya mampu mengekspresikan ide dan bekerja dengan semangat tinggi.
-
----
-
-### 🌿 **E – Narrative Identity & Post-Traumatic Growth**
-Pengalaman gagal masuk ITB lewat UTBK dulu menjadi titik balik dalam hidup saya.  
-Dari pengalaman itu, saya belajar arti ketekunan, dukungan keluarga, dan kekuatan untuk bangkit.  
-Saya sadar bahwa **rasa sakit bisa berubah menjadi sumber pertumbuhan**.  
-Sekarang, setiap kali menghadapi tantangan, saya tidak lagi takut gagal — saya tahu bahwa dari kegagalan pun ada pelajaran yang berharga.
-
-> “Pertumbuhan sejati terjadi bukan saat kita selalu berhasil,  
-> tapi saat kita belajar untuk tetap melangkah meski pernah jatuh.”
-
----
-
-## 🌟 Kesimpulan
-
-Melalui refleksi S.H.A.P.E, saya semakin memahami bahwa diri saya bukan hanya sekumpulan kemampuan, tetapi juga nilai, pengalaman, dan makna yang terus saya bangun setiap hari.  
-Saya ingin menggunakan semua aspek ini untuk memberi dampak positif —  
-baik di lingkungan akademik, pertemanan, maupun dalam perjalanan hidup saya ke depan.
-
----
-
-Terima kasih telah membaca refleksi ini 🌻  
-Saya percaya, setiap orang memiliki bentuk unik yang patut disyukuri dan dikembangkan.
+<div class="card">
+  <h2>E — Narrative Identity</h2>
+  <p>
+    Pengalaman gagal → bangkit → diterima ITB membentuk identitas baru.
+  </p>
+</div>
