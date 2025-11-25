@@ -1,16 +1,60 @@
+/* Background global */
 body {
+  background: #0a0a0f;
+  color: #d7d7e0;
   font-family: 'Inter', sans-serif;
-  margin: 0;
-  background-color: #ffffff;
-  color: #1e293b;
 }
 
+/* Glow Text */
 h1, h2, h3 {
-  font-weight: 700;
+  color: #c8b6ff;
+  text-shadow: 0 0 10px rgba(150, 100, 255, 0.8);
+}
+
+/* Hero Section */
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #1f0036, #000814);
+  border-bottom: 1px solid #5a2cff;
+  box-shadow: 0 0 40px rgba(90, 44, 255, 0.4);
+}
+
+/* Card Futuristik */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+  margin-top: 40px;
+}
+
+.card {
+  background: rgba(20, 20, 30, 0.85);
+  padding: 25px;
+  border-radius: 16px;
+  border: 1px solid #4422aa;
+  box-shadow: 0 0 15px rgba(90, 44, 255, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 30px rgba(120, 60, 255, 0.6);
+}
+
+/* Links */
+a {
+  color: #9d7dff;
+  text-decoration: none;
 }
 
 a:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
+  color: #d0b3ff;
+  text-shadow: 0 0 8px rgba(120, 60, 255, 0.8);
+}
+
+/* Neon Button */
+.neon-btn {
+  display: inline-block;
+  padding: 12
 }
