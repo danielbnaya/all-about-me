@@ -1,56 +1,6 @@
----
-title: "Selamat Datang"
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-navbar:
-  title: "Daniel Benaya"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "All About Me"
-      href: All_About_me/index.html
-    - text: "My Stories"
-      href: My_Stories_for_You/index.html
-    - text: "Songs"
-      href: My_Song_for_You/index.html
-    - text: "Reviews"
-      href: My_Personal_Reviews/index.html
-    - text: "S.H.A.P.E"
-      href: My_Shapes/index.html
----
+## 🌱 MyWork
 
-<div class="hero hero-main">
-  <div class="hero-inner">
-    <img src="images/bnaya-profile.png" alt="Daniel Benaya" class="hero-avatar">
-    <div>
-      <h1>Selamat Datang</h1>
-      <p class="lead">Halo, Saya <strong>Daniel Benaya</strong> 👋</p>
-      <p>Selamat datang di website pribadi saya. Di sini saya membagikan perjalanan belajar, pengalaman, dan refleksi diri dalam tugas-tugas kuliah.</p>
-      <p><a class="btn-primary" href="All_About_me/index.html">➡ Kenali Saya</a></p>
-    </div>
-  </div>
-</div>
-
-<div class="container-intro">
-  <div class="grid-3">
-    <div class="info-card">
-      <h3>All About Me</h3>
-      <p>Refleksi, nilai, dan cerita hidup yang membentuk saya.</p>
-      <a href="All_About_me/index.html" class="link-inline">Lihat detail →</a>
-    </div>
-
-    <div class="info-card">
-      <h3>My Stories</h3>
-      <p>Kisah perjalanan, kegagalan, dan kebangkitan.</p>
-      <a href="My_Stories_for_You/index.html" class="link-inline">Baca cerita →</a>
-    </div>
-
-    <div class="info-card">
-      <h3>Songs & Reviews</h3>
-      <p>Playlist dan penilaian personal untuk teman.</p>
-      <a href="My_Song_for_You/index.html" class="link-inline">Playlists →</a>
-    </div>
-  </div>
-</div>
+Setiap bagian tidak berdiri sendiri,
+melainkan saling terhubung sebagai satu perjalanan utuh:
+dari **mengenal diri**, **mengapresiasi relasi**,
+hingga membangun pemikiran dan pengetahuan.

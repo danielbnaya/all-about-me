@@ -1,81 +1,35 @@
----
-title: "Armein Z. R. Langi"
-subtitle: "Portfolio Asesmen II-2100 KIPP"
-author: "131902360 Armein Z R Langi"
-date: "September 15, 2025"
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Armein Z. R. Langi"
+
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Selamat Berjumpa"
+        file: index.qmd
+
+      - section: "UTS"
+        contents:
+          - file: All_About_me/index.qmd
+          - file: My_Song_for_You/index.qmd
+          - file: My_Stories_for_You/index.qmd
+          - file: My_Shapes/index.qmd
+          - file: My_Personal_Reviews/index.qmd
+
+      - section: "UAS"
+        contents:
+          - file: My_Concepts/index.qmd
+          - file: My_Opinions/index.qmd
+          - file: My_Innovations/index.qmd
+          - file: My_Knowledge/index.qmd
+          - file: My_Professional_Reviews/index.qmd
+
 format:
   html:
     theme: cosmo
     css: styles.css
----
-
-<div class="hero">
-  <h1>Selamat Berjumpa</h1>
-  <p class="lead">
-    Sebuah perjalanan reflektif tentang diri, relasi, nilai, dan pemikiran
-    dalam menghadapi dunia yang terus berubah.
-  </p>
-</div>
-
----
-
-## 🌱 MyWork
-
-Menghadapi era **Artificial Intelligence**, manusia—terutama rekayasawan—
-memiliki peluang besar untuk membangun sistem yang tidak hanya cerdas,
-tetapi juga **bermakna dan memberdayakan**.
-
-Portfolio ini merupakan ruang refleksi pribadi sekaligus akademik,
-yang merekam proses pembelajaran saya selama perkuliahan,
-baik melalui **UTS** maupun **UAS**.
-
-Setiap bagian tidak berdiri sendiri,
-melainkan saling terhubung sebagai satu perjalanan utuh:
-dari **mengenal diri**, **mengapresiasi relasi**,  
-hingga **membangun gagasan dan pengetahuan**.
-
----
-
-<div class="card">
-  <h2>📘 Bagian UTS — Refleksi Diri</h2>
-  <p>
-    Bagian UTS berfokus pada pemahaman diri dan relasi,
-    mencakup narasi personal, nilai hidup, pengalaman bermakna,
-    serta refleksi melalui kerangka <b>My SHAPE</b>.
-  </p>
-  <ul>
-    <li>All About Me</li>
-    <li>My Songs for You</li>
-    <li>My Stories for You</li>
-    <li>My SHAPE</li>
-    <li>My Personal Reviews</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h2>📗 Bagian UAS — Pemikiran & Pengembangan Diri</h2>
-  <p>
-    Bagian UAS berfokus pada proses berpikir, analisis, dan sintesis pengetahuan,
-    termasuk pandangan pribadi, inovasi, serta refleksi profesional.
-  </p>
-  <ul>
-    <li>My Concepts</li>
-    <li>My Opinions</li>
-    <li>My Innovations</li>
-    <li>My Knowledge</li>
-    <li>My Professional Reviews</li>
-  </ul>
-</div>
-
----
-
-<blockquote>
-  “Belajar bukan sekadar mengumpulkan pengetahuan,
-  tetapi memahami diri, orang lain, dan dunia dengan lebih jujur.”
-</blockquote>
-
-<p>
-Terima kasih telah meluangkan waktu untuk membaca portfolio ini.
-Semoga setiap halaman dapat memberi gambaran tentang proses,
-bukan hanya hasil, dari perjalanan saya.
-</p>
