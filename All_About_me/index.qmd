@@ -1,5 +1,5 @@
 ---
-title: "UTS-1 — All About Me"
+title: "UTS 1 — All About Me"
 format:
   html:
     theme: cosmo
@@ -8,7 +8,6 @@ format:
 
 <div class="hero">
   <h1>🌙 All About Me</h1>
-  <p class="lead">Refleksi diri dalam tema futuristik & tenang.</p>
 </div>
 
 <div class="card">

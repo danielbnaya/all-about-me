@@ -1,29 +1,63 @@
 ---
-title: "UAS-4 — My Knowledge"
+title: "UAS 4 — My Knowledge"
 ---
 
-## Ketidaksetaraan Global dan Dampaknya bagi Masyarakat Dunia
+<div class="hero">
+  <h1>📘 Pengetahuan tentang Ketidaksetaraan Global</h1>
+  <p class="lead">
+    Dari hafalan menuju pemahaman dan penciptaan solusi.
+  </p>
+</div>
 
-Ketidaksetaraan global mencakup kesenjangan pendapatan, kekayaan,
-pendidikan, kesehatan, dan akses teknologi antarindividu maupun antarnegara.
-Meskipun ekonomi dunia terus tumbuh,
-manfaat dari pertumbuhan tersebut terdistribusi secara sangat timpang.
+<div class="card">
 
-Laporan Oxfam (2024) menunjukkan bahwa sekitar **60% populasi dunia**
-mengalami penurunan kondisi ekonomi sejak pandemi COVID-19,
-sementara **1% orang terkaya dunia menguasai sekitar 43% kekayaan global**.
-Hal ini menunjukkan bahwa mayoritas manusia tidak menikmati
-hasil pertumbuhan ekonomi secara adil.
+## Ketidaksetaraan sebagai Pengetahuan Sosial
 
-Ketimpangan ekstrem berdampak pada meningkatnya kemiskinan relatif,
-ketidakstabilan sosial, serta melemahnya kohesi masyarakat.
-Penelitian juga menunjukkan bahwa ketimpangan ekonomi yang tinggi
-dapat menghambat pertumbuhan jangka panjang
-dan meningkatkan risiko konflik sosial-politik.
+Ketidaksetaraan global adalah **pengetahuan sosial**,  
+yakni deskripsi terstruktur tentang realitas distribusi sumber daya dunia.
 
-Isu ini sejalan dengan **SDG 10: Reduced Inequalities**,
-yang menekankan pentingnya mengurangi kesenjangan
-baik di dalam maupun antarnegara.
-Pemahaman masyarakat terhadap ketidaksetaraan global
-menjadi langkah awal untuk mendorong kebijakan,
-inovasi, dan tindakan yang lebih adil dan berkelanjutan.
+Pengetahuan ini penting untuk memahami mengapa  
+pertumbuhan ekonomi global **tidak dinikmati secara merata**.
+
+</div>
+
+<div class="card">
+
+## Pengetahuan dan Taksonomi Bloom
+
+- **Remember & Understand**: definisi, Gini coefficient
+- **Apply & Analyze**: memahami sebab ketimpangan
+- **Evaluate & Create**: merancang kebijakan dan inovasi sosial
+
+Pengetahuan yang berhenti di level hafalan **tidak cukup**.
+
+</div>
+
+<div class="card">
+
+## Peta Pengetahuan dalam VALORAIZE Learning
+
+Dalam pendekatan VALORAIZE:
+
+- Peta Pengetahuan Primitif → membangun fondasi
+- Peta Pemecahan Masalah → mengarahkan tindakan
+- Produk Pengetahuan → memiliki nilai nyata
+
+Pengetahuan menjadi **alat pemindah beban sosial**, bukan sekadar teori.
+
+</div>
+
+<div class="card">
+
+## Penutup
+
+Pengetahuan tentang ketidaksetaraan global harus bersifat:
+
+- Terstruktur
+- Reflektif
+- Aplikatif
+
+Hanya dengan demikian, pengetahuan dapat berfungsi  
+sebagai **blueprint** untuk menciptakan dunia yang lebih adil.
+
+</div>

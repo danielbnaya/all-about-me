@@ -1,23 +1,61 @@
 ---
-title: "UAS-1 — My Concepts"
+title: "UAS 1 — My Concepts"
 ---
 
-## Ketidaksetaraan Global sebagai Fenomena Struktural
+<div class="hero">
+  <h1>🧠 Ketidaksetaraan Global sebagai Konsep</h1>
+  <p class="lead">
+    Memahami ketidaksetaraan global bukan sebagai angka, tetapi sebagai logika mesin abstrak.
+  </p>
+</div>
 
-Ketidaksetaraan global sering dipahami secara sederhana sebagai perbedaan antara
-yang kaya dan yang miskin. Namun, dalam perspektif konseptual, ketidaksetaraan global
-adalah **fenomena struktural**—hasil dari sistem ekonomi, politik, dan sosial
-yang membentuk distribusi sumber daya secara tidak seimbang.
+<div class="card">
 
-Konsep ketidaksetaraan global tidak hanya berbicara tentang jumlah kekayaan,
-tetapi tentang **akses**: akses terhadap pendidikan, kesehatan, teknologi,
-dan kesempatan untuk meningkatkan kualitas hidup.
+## Apa yang Dimaksud dengan Konsep?
 
-Dalam sistem ekonomi global, pertumbuhan tidak otomatis berarti pemerataan.
-Struktur pasar, kebijakan fiskal, warisan kolonial, dan ketimpangan akses
-membuat sebagian negara dan kelompok masyarakat terus tertinggal,
-meskipun ekonomi dunia secara agregat tumbuh.
+Dalam kerangka berpikir *beautiful mind*, **konsep bukan sekadar definisi**, melainkan  
+**logika mesin abstrak** yang menghimpun kekuatan tertentu **[K]** untuk mengangkat beban masalah **[B]**.
 
-Dengan memahami ketidaksetaraan sebagai konsep struktural,
-kita dapat melihat bahwa solusi tidak cukup bersifat individual,
-melainkan membutuhkan perubahan pada sistem dan kebijakan yang lebih luas.
+Konsep tidak berusaha lengkap, tetapi **menyaring esensi** dari realitas yang kompleks.
+
+</div>
+
+<div class="card">
+
+## Ketidaksetaraan Global sebagai Logika Mesin
+
+Ketidaksetaraan global bekerja sebagai sebuah **mesin abstrak** yang:
+
+- Menghimpun **kekuatan ekonomi, politik, dan teknologi** [K]
+- Menghasilkan **beban struktural** bagi mayoritas populasi dunia [B]
+
+Mesin ini tidak terlihat secara kasat mata, tetapi dampaknya nyata:  
+akses pendidikan terbatas, layanan kesehatan timpang, dan peluang hidup yang tidak setara.
+
+</div>
+
+<div class="card">
+
+## Mengapa Ini Disebut Konsep, Bukan Sekadar Masalah?
+
+Karena ketidaksetaraan global:
+
+- **Melahirkan banyak ide turunan**: redistribusi, kebijakan pajak, SDG 10
+- **Mengarahkan cara berpikir**, bukan hanya solusi teknis
+- Menjadi **induk dari ide-ide praktis**, bukan hasil akhir
+
+Tanpa memahami konsepnya, solusi yang dihasilkan akan bersifat reaktif dan terfragmentasi.
+
+</div>
+
+<div class="card">
+
+## Refleksi Konseptual
+
+Ketidaksetaraan global perlu dipahami sebagai **kerangka berpikir**,  
+bukan hanya fenomena statistik.  
+
+Dengan memahami konsep ini, kita dapat membiakkan ide-ide kebijakan dan tindakan sosial  
+yang **lebih terarah, sistemik, dan berkelanjutan**.
+
+</div>

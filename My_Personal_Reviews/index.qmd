@@ -8,13 +8,81 @@ format:
 
 <div class="hero">
   <h1>⭐ My Personal Reviews</h1>
-  <p class="lead">Penilaian untuk teman — tersedia dalam berkas unduhan.</p>
+  <p class="lead">
+    Evaluasi reflektif terhadap karya UTS 1–4 berdasarkan rubrik penilaian.
+  </p>
 </div>
 
+---
+
+## 📊 Ringkasan Penilaian
+
+Halaman ini berisi penilaian dan refleksi pribadi terhadap tugas UTS 1 hingga UTS 4.  
+Penilaian dilakukan berdasarkan rubrik yang mencakup **orisinalitas, keterlibatan, kedalaman refleksi, serta dampak komunikasi interpersonal**.
+
+| UTS | Fokus | Skor |
+|----|------|------|
+| UTS-1 | All About Me | **4.5 / 5** |
+| UTS-2 | My Songs for You | **4.0 / 5** |
+| UTS-3 | My Stories for You | **4.5 / 5** |
+| UTS-4 | My SHAPE | **4.7 / 5** |
+
+---
+
+## 🌙 UTS-1 — All About Me  
+**Skor: 4.5 / 5**
+
+UTS-1 menampilkan refleksi diri yang autentik dan tenang. Narasi disampaikan dengan sudut pandang personal yang kuat dan tidak klise. Kekuatan utama terletak pada kejujuran serta kemampuan memahami diri sendiri secara reflektif.
+
+**Catatan pengembangan:**  
+Variasi gaya bahasa dan contoh konkret dapat meningkatkan keterlibatan pembaca.
+
+---
+
+## 🎶 UTS-2 — My Songs for You  
+**Skor: 4.0 / 5**
+
+Pemilihan lagu *Monokrom* relevan dan emosional. Refleksi yang ditulis terasa tulus dan menunjukkan kemampuan mengaitkan pengalaman personal dengan media populer.
+
+**Catatan pengembangan:**  
+Struktur refleksi dapat dipertegas agar pesan utama lebih fokus dan kuat.
+
+---
+
+## 🌿 UTS-3 — My Stories for You  
+**Skor: 4.5 / 5**
+
+Cerita kegagalan dan kebangkitan disampaikan dengan alur yang jelas dan refleksi mendalam. Narasi ini berhasil membangun empati dan menunjukkan proses pembelajaran personal yang signifikan.
+
+**Catatan pengembangan:**  
+Refleksi penutup dapat dipadatkan agar dampak inspiratif lebih terasa.
+
+---
+
+## 🌱 UTS-4 — My SHAPE  
+**Skor: 4.7 / 5**
+
+UTS-4 merupakan karya paling kuat secara konseptual. Kerangka SHAPE digunakan secara reflektif dan terintegrasi dengan pengalaman pribadi. Analisis menunjukkan pemahaman yang baik terhadap konsep komunikasi interpersonal.
+
+**Catatan pengembangan:**  
+Penambahan contoh konkret pada beberapa aspek akan memperkuat analisis.
+
+---
+
+## ✨ Refleksi Akhir
+
+Secara keseluruhan, rangkaian UTS 1–4 menunjukkan perkembangan kemampuan refleksi diri, komunikasi interpersonal, serta pemahaman konsep yang semakin matang. Setiap tugas berkontribusi dalam membangun kesadaran diri, hubungan sosial, dan cara pandang terhadap pengalaman hidup.
+
+---
+
+## 📄 Dokumen Penilaian (Lampiran)
+
 <div class="card">
-  <h2>📄 Download File Penilaian</h2>
+  <h3>⬇️ Download File Penilaian</h3>
   <p>
-    Klik tombol di bawah untuk mengunduh penilaian lengkap:
+    File berikut berisi rekap skor dan catatan penilaian:
   </p>
-  <a class="neon-btn" href="../downloads/UTS-5_Skor.xlsx" download>⬇ Download UTS-5 Skor</a>
+  <a class="neon-btn" href="../downloads/UTS-5_Skor.xlsx" download>
+    Download UTS-5 Skor
+  </a>
 </div>

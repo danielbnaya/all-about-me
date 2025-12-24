@@ -1,24 +1,55 @@
 ---
-title: "UAS-2 — My Opinions"
+title: "UAS 2 — My Opinions"
 ---
 
-## Sikap Terhadap Ketidaksetaraan Global
+<div class="hero">
+  <h1>💬 Sikap terhadap Ketidaksetaraan Global</h1>
+  <p class="lead">
+    Opini bukan kebenaran mutlak, tetapi posisi reflektif yang siap diuji.
+  </p>
+</div>
 
-Menurut saya, sikap terbaik dalam menghadapi ketidaksetaraan global
-bukanlah sikap netral atau pasif, melainkan **kesadaran kritis dan keberpihakan etis**.
-Ketimpangan yang ekstrem tidak dapat dianggap sebagai konsekuensi alami dari pasar,
-karena dampaknya secara langsung merugikan mayoritas manusia.
+<div class="card">
 
-Keputusan terbaik yang dapat diambil oleh individu dan institusi
-adalah mendorong kebijakan dan praktik yang lebih inklusif,
-terutama dalam bidang pendidikan, kesehatan, dan akses teknologi.
-Tanpa intervensi yang disengaja, ketimpangan justru akan semakin melebar.
+## Posisi Opini Saya
 
-Saya berpendapat bahwa pertumbuhan ekonomi seharusnya diukur
-bukan hanya dari peningkatan PDB,
-tetapi dari sejauh mana pertumbuhan tersebut meningkatkan
-kesejahteraan kelompok paling rentan.
+Menurut saya, **ketidaksetaraan global tidak boleh dipahami sebagai kegagalan individu**,  
+melainkan sebagai **masalah struktural** yang dibentuk oleh sistem ekonomi dan sosial global.
 
-Dalam konteks global, negara maju juga memiliki tanggung jawab moral
-untuk tidak hanya mengejar keuntungan,
-tetapi berkontribusi pada sistem global yang lebih adil dan berkelanjutan.
+</div>
+
+<div class="card">
+
+## Dasar Opini Ini
+
+Opini ini terbentuk dari:
+
+- **Informasi**: data Oxfam & World Economic Forum
+- **Nilai**: keadilan sosial dan kesetaraan peluang
+- **Pengalaman belajar**: memahami bagaimana struktur membatasi kapasitas individu
+
+Menyalahkan individu atas kemiskinan berarti **mengabaikan mesin konseptual di baliknya**.
+
+</div>
+
+<div class="card">
+
+## Sikap yang Menurut Saya Paling Tepat
+
+Sikap terbaik bukanlah simpati pasif, melainkan:
+
+- Mengakui **ketimpangan struktural**
+- Mendukung **intervensi kolektif**
+- Menolak narasi bahwa “pasar akan menyelesaikan semuanya sendiri”
+
+</div>
+
+<div class="card">
+
+## Kesiapan Mengubah Opini
+
+Sebagai bagian dari *beautiful mind*, opini ini **tidak final**.  
+Jika bukti baru menunjukkan pendekatan yang lebih adil dan efektif,  
+maka opini ini **harus bersedia direvisi**.
+
+</div>

@@ -1,26 +1,60 @@
 ---
-title: "UAS-3 — My Innovations"
+title: "UAS 3 — My Innovations"
 ---
 
-## Desain Platform Edukasi Interaktif Ketidaksetaraan Global
+<div class="hero">
+  <h1>🚀 Inovasi Nilai dalam Komunikasi Ketidaksetaraan Global</h1>
+  <p class="lead">
+    Dari pemahaman menuju penciptaan nilai bersama.
+  </p>
+</div>
 
-Saya mengusulkan sebuah layanan digital berupa **platform edukasi interaktif**
-yang bertujuan mengkomunikasikan isu ketidaksetaraan global
-kepada masyarakat luas secara sederhana dan empatik.
+<div class="card">
 
-Platform ini menyajikan:
-- visualisasi data ketimpangan global yang mudah dipahami,
-- cerita singkat berbasis pengalaman nyata masyarakat terdampak,
-- simulasi sederhana yang menunjukkan bagaimana kebijakan
-  dapat memengaruhi distribusi kesejahteraan.
+## Masalah Komunikasi Saat Ini
 
-Inovasi ini membangun kapasitas komunikasi KIPP
-dengan menggabungkan **data, narasi, dan interaksi**.
-Alih-alih menyajikan statistik yang abstrak,
-platform ini membantu pengguna memahami ketidaksetaraan
-sebagai realitas manusia, bukan sekadar angka.
+Ketidaksetaraan global sering dikomunikasikan melalui:
 
-Tujuan akhirnya adalah meningkatkan literasi sosial,
-empati, dan kesadaran kritis,
-sehingga masyarakat dapat berpartisipasi lebih aktif
-dalam diskusi dan solusi terkait ketidaksetaraan global.
+- Angka statistik yang dingin
+- Narasi yang terlalu akademik
+- Informasi yang tidak terhubung dengan tindakan
+
+Akibatnya, masyarakat **tahu**, tetapi **tidak memahami**.
+
+</div>
+
+<div class="card">
+
+## Gagasan Inovasi: Platform Peta Pengetahuan
+
+Saya mengusulkan sebuah **platform komunikasi berbasis Peta Pengetahuan**, yang:
+
+- Menyajikan **Peta Pengetahuan Primitif** (apa itu ketidaksetaraan)
+- Menyediakan **Peta Pemecahan Masalah** (bagaimana menghadapinya)
+- Menghubungkan data, konsep, dan aksi
+
+</div>
+
+<div class="card">
+
+## Inovasi Nilai (Value Innovation)
+
+Platform ini menciptakan nilai melalui:
+
+- **Value Co-creation**: mahasiswa & masyarakat berkontribusi
+- **Produk Pengetahuan**: artefak yang bisa digunakan ulang
+- **Sense of creating value**, bukan sekadar mengerjakan tugas
+
+</div>
+
+<div class="card">
+
+## Relevansi terhadap KIPP
+
+Inovasi ini meningkatkan efektivitas komunikasi publik dengan:
+
+- Menyederhanakan konsep kompleks
+- Menghubungkan pengetahuan dengan tindakan
+- Membantu masyarakat *berpikir*, bukan sekadar *menerima informasi*
+
+</div>

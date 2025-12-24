@@ -2,34 +2,43 @@ project:
   type: website
   output-dir: docs
 
-
 website:
-  title: "Armein Z. R. Langi"
+  title: "Daniel Benaya Toar Supaath - 18224047"
 
-  sidebar:
-    style: "floating"
-    search: true
-    contents:
-      - text: "Selamat Berjumpa"
-        file: index.qmd
+  navbar:
+    background: "#1a1a1a"
+    collapse: true
+    right:
+      - text: "UTS"
+        menu:
+          - text: "UTS 1 - All About Me"
+            href: All_About_me/index.qmd
+          - text: "UTS 2 - My Songs For You"
+            href: My_Song_for_You/index.qmd
+          - text: "UTS 3 - My Stories For You"
+            href: My_Stories_for_You/index.qmd
+          - text: "UTS 4 - My SHAPE"
+            href: My_Shapes/index.qmd
+          - text: "UTS 5 - My Personal Reviews"
+            href: My_Personal_Reviews/index.qmd
 
-      - section: "UTS"
-        contents:
-          - file: All_About_me/index.qmd
-          - file: My_Song_for_You/index.qmd
-          - file: My_Stories_for_You/index.qmd
-          - file: My_Shapes/index.qmd
-          - file: My_Personal_Reviews/index.qmd
-
-      - section: "UAS"
-        contents:
-          - file: My_Concepts/index.qmd
-          - file: My_Opinions/index.qmd
-          - file: My_Innovations/index.qmd
-          - file: My_Knowledge/index.qmd
-          - file: My_Professional_Reviews/index.qmd
+      - text: "UAS"
+        menu:
+          - text: "UAS 1 - My Concept"
+            href: My_Concepts/index.qmd
+          - text: "UAS 2 - My Opinions"
+            href: My_Opinions/index.qmd
+          - text: "UAS 3 - My Innovations"
+            href: My_Innovations/index.qmd
+          - text: "UAS 4 - My Knowledge"
+            href: My_Knowledge/index.qmd
+          - text: "UAS 5 - My Professional Reviews"
+            href: My_Professional_Reviews/index.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
+    toc: false
+
+page-navigation: true
