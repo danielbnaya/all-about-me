@@ -1,47 +1,56 @@
 /* =========================
-   RESET & GLOBAL
-   ========================= */
+   FINAL styles.css (FULL, STABIL, RAPI)
+   - Landing hero full-width
+   - Wave tidak menutup konten
+   - Halaman UTS/UAS readable & centered
+========================= */
+
+/* ===== RESET & GLOBAL ===== */
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #1a1a1a !important;
-    color: #eaeaea;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    overflow-x: hidden;
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #1a1a1a;
+  color: #eaeaea;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  overflow-x: hidden;
 }
 
+/* ===== QUARTO CORE RESET (AMAN) ===== */
 #quarto-content,
-.quarto-container,
+.quarto-container {
+  max-width: none !important;
+  margin: 0 !important;
+  background: transparent !important;
+}
+
+/* ===== CONTENT LAYOUT (UTS / UAS) ===== */
 .page-columns {
-    max-width: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
+  padding-left: 6vw !important;
+  padding-right: 6vw !important;
 }
 
-/* =========================
-   NAVBAR
-   ========================= */
+.content {
+  max-width: 1100px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 !important;
+}
+
+/* ===== NAVBAR ===== */
 .navbar {
-    background-color: rgba(26, 26, 26, 0.95) !important;
-    border-bottom: 1px solid rgba(255,255,255,0.08);
-    padding: 14px 6% !important;
-    position: absolute;
-    width: 100%;
-    z-index: 100;
+  background-color: rgba(26,26,26,0.95) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  padding: 14px 6% !important;
 }
 
-.navbar-title {
-    color: #ffffff !important;
-    font-weight: 600;
-    font-size: 1rem;
-}
-
-.navbar-toggler-icon {
-    filter: invert(1);
+.navbar-title,
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
 }
 
 /* =========================
@@ -61,7 +70,7 @@ body {
 .wave-overlay {
     position: absolute;
     /* Mengatur posisi agar ombak nyambung ke menu-box */
-    bottom: -100px; 
+    bottom: -110px; 
     right: -5%;
     width: 75%;
     z-index: 1;
@@ -81,96 +90,150 @@ body {
 .hero-left { flex: 1.2; }
 .hero-right { flex: 0.8; display: flex; justify-content: flex-end; }
 
-/* =========================
-   WELCOME TEXT STYLE
-   ========================= */
+
+/* ===== HERO TEXT ===== */
 .welcome-text {
-    font-size: 6rem;
-    font-family: "Times New Roman", serif;
-    letter-spacing: 12px;
-    margin: 0;
-    color: #ffffff;
+  font-size: 6rem;
+  font-family: "Times New Roman", serif;
+  letter-spacing: 12px;
+  margin: 0;
+  color: #ffffff;
 }
 
 .welcome-line {
-    width: 100%;
-    height: 3px;
-    background-color: #ffffff;
-    margin: 22px 0;
+  width: 100%;
+  height: 3px;
+  background-color: #ffffff;
+  margin: 22px 0;
 }
 
 .welcome-sub {
-    font-size: 2.2rem;
-    font-style: italic;
-    margin-bottom: 15px;
+  font-size: 1.8rem;
+  font-style: italic;
+  margin-bottom: 10px;
 }
 
 .welcome-desc {
-    font-size: 1.1rem;
-    color: #cccccc;
-    line-height: 1.7;
-    margin-bottom: 36px;
-    max-width: 600px;
+  font-size: 1rem;
+  color: #cccccc;
+  line-height: 1.7;
+  margin-bottom: 36px;
 }
 
+/* ===== BUTTON ===== */
 .btn-explore {
-    background-color: #ffffff;
-    color: #000000 !important;
-    padding: 14px 34px;
-    font-weight: 700;
-    text-decoration: none !important;
-    display: inline-block;
-    border-radius: 4px;
+  background-color: #ffffff;
+  color: #000000 !important;
+  padding: 14px 34px;
+  font-weight: 700;
+  text-decoration: none !important;
+  display: inline-block;
+  border-radius: 4px;
+  transition: background 0.2s ease;
 }
 
-/* =========================
-   MENU BOX (UTS & UAS)
-   ========================= */
+.btn-explore:hover {
+  background-color: #eaeaea;
+}
+
+/* ===== MENU BOX (LANDING) ===== */
 .menu-box {
-    background: rgba(45, 45, 45, 0.9) !important; /* Transparan agar wave menyatu */
-    backdrop-filter: blur(14px);
-    padding: 50px;
-    border-radius: 40px; /* Sudut bulat besar sesuai desain */
-    border: 1px solid rgba(255,255,255,0.15);
-    min-width: 450px;
-    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
-    z-index: 11;
+  background: rgba(45, 45, 45, 0.9);
+  backdrop-filter: blur(16px);
+  padding: 44px 46px;
+  border-radius: 28px;
+  border: 1px solid rgba(255,255,255,0.2);
+  min-width: 360px;
 }
 
-.menu-box h3 {
-    font-size: 1.8rem;
-    font-weight: bold;
-    border-left: 5px solid white;
-    padding-left: 15px;
-    margin-bottom: 20px;
-}
-
-/* FIX SATU BARIS */
 .menu-box ul {
-    list-style: none !important;
-    padding-left: 0 !important;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
 }
 
 .menu-box li {
-    margin-bottom: 14px;
-    font-size: 1.15rem;
-    white-space: nowrap !important; /* Paksa satu baris */
+  margin-bottom: 14px;
+  line-height: 1.6;
+  white-space: nowrap;
 }
 
 .menu-box a {
-    color: #ffffff !important;
-    text-decoration: none;
+  color: #ffffff !important;
+  text-decoration: none;
+  font-weight: 500;
 }
 
 .menu-box a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
-/* RESPONSIVE */
+/* =========================
+   CARD (UTS / UAS CONTENT)
+========================= */
+.card {
+  background: rgba(30,30,30,0.85);
+  backdrop-filter: blur(10px);
+  border-radius: 18px;
+  padding: 36px 40px;
+  margin: 36px 0;
+  border: 1px solid rgba(30,30,30,0.85);
+}
+
+.card h2,
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-weight: 700;
+  color: #ffffff !important
+}
+
+.card p,
+.card li {
+  line-height: 1.75;
+  color: #e0e0e0;
+}
+
+.card ul {
+  padding-left: 22px;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
 @media (max-width: 992px) {
-    .hero-content { flex-direction: column; text-align: center; padding-top: 100px; }
-    .welcome-text { font-size: 4rem; }
-    .hero-right { justify-content: center; }
-    .menu-box { min-width: 100%; }
-    .menu-box li { white-space: normal !important; }
+  .page-columns {
+    padding-left: 5vw !important;
+    padding-right: 5vw !important;
+  }
+
+  .content {
+    max-width: 100%;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .welcome-text {
+    font-size: 3.8rem;
+    letter-spacing: 6px;
+  }
+
+  .hero-container::before {
+    width: 100%;
+    height: 45%;
+    left: -25%;
+    bottom: -10%;
+  }
+
+  .menu-box {
+    width: 100%;
+    min-width: unset;
+  }
+
+  .menu-box li {
+    white-space: normal;
+  }
 }

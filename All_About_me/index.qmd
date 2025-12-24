@@ -15,10 +15,18 @@ format:
 
   <h2>✨ Siapa Saya?</h2>
   <p>
-    Halo, saya <b>Daniel Benaya Toar Supaath</b>.  
-    Saya pribadi yang tenang, observatif, dan lebih senang memahami daripada berbicara.
-    Hidup bagi saya adalah perjalanan bertahap—perlahan namun pasti.
-  </p>
+  Nama saya <b>Daniel Benaya Toar Supaath</b>, mahasiswa <b>Program Studi Sistem dan Teknologi Informasi</b>
+  angkatan <b>2024</b> di <b>Institut Teknologi Bandung</b>.
+  Saya merupakan anak kedua dari dua bersaudara dan memiliki seorang kakak perempuan
+  yang berperan besar dalam membentuk cara pandang serta kedewasaan saya.
+</p>
+<p>
+Saya berasal dari <b>Bekasi</b>, dengan latar keluarga asli <b>Manado</b>.
+Perpaduan lingkungan tempat saya tumbuh dan nilai kekeluargaan yang saya bawa
+mengajarkan saya untuk melihat kehidupan secara tenang, terbuka, dan reflektif.
+Perjalanan ini perlahan membentuk cara saya berpikir, bersikap, dan bertumbuh sebagai pribadi.
+</p>
+
 </div>
 
 <div class="card">

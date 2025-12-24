@@ -1,0 +1,70 @@
+## 📊 Ringkasan Penilaian UAS
+
+Halaman ini berisi evaluasi reflektif terhadap tugas **UAS 1–4** berdasarkan rubrik penilaian resmi.  
+Penilaian mencakup **kedalaman konsep, kualitas opini, nilai inovasi, dan daya guna pengetahuan**.
+
+| UAS | Fokus | Skor |
+|----|------|------|
+| UAS-1 | My Concepts | **4.75 / 5** |
+| UAS-2 | My Opinions | **4.5 / 5** |
+| UAS-3 | My Innovations | **4.75 / 5** |
+| UAS-4 | My Knowledge | **4.5 / 5** |
+
+---
+
+## 🧠 UAS-1 — My Concepts  
+**Skor: 4.75 / 5**
+
+Karya ini sangat kuat secara konseptual. Ketidaksetaraan global dipahami sebagai *mesin abstrak* yang koheren dan sistemik. Logika berpikir matang dan menunjukkan kemampuan berpikir tingkat tinggi.
+
+**Catatan pengembangan:**  
+Penambahan contoh empiris spesifik akan memperkuat validitas konsep.
+
+---
+
+## 💬 UAS-2 — My Opinions  
+**Skor: 4.5 / 5**
+
+Opini disampaikan reflektif, tidak dogmatis, dan terbuka terhadap revisi. Pendekatan struktural menunjukkan kedewasaan berpikir dan empati sosial.
+
+**Catatan pengembangan:**  
+Referensi data eksplisit dapat memperkuat daya persuasif.
+
+---
+
+## 🚀 UAS-3 — My Innovations  
+**Skor: 4.75 / 5**
+
+Gagasan inovasi sangat orisinal dan relevan. Konsep peta pengetahuan membuka ruang *value co-creation* dan menunjukkan orientasi pada penciptaan nilai nyata.
+
+**Catatan pengembangan:**  
+Detail teknis implementasi akan meningkatkan kelayakan praktis.
+
+---
+
+## 📘 UAS-4 — My Knowledge  
+**Skor: 4.5 / 5**
+
+Pengetahuan dikurasi dengan baik dan disajikan secara publik-friendly. Tidak berhenti pada hafalan, tetapi diarahkan menjadi alat pemecahan masalah sosial.
+
+**Catatan pengembangan:**  
+Penguatan rujukan akan meningkatkan kredibilitas akademik.
+
+---
+
+## ✨ Refleksi Akhir UAS
+
+Rangkaian UAS 1–4 menunjukkan kemampuan berpikir konseptual, reflektif, dan aplikatif yang matang.  
+Pengetahuan, opini, dan inovasi saling terhubung sebagai satu kerangka berpikir yang utuh, selaras dengan tujuan CPMK mata kuliah ini.
+
+## 📄 Dokumen Penilaian (Lampiran)
+
+<div class="card">
+  <h3>⬇️ Download File Penilaian</h3>
+  <p>
+    File berikut berisi rekap skor dan catatan penilaian:
+  </p>
+  <a class="neon-btn" href="../downloads/UAS-5_Skor.xlsx" download>
+    Download UAS-5 Skor
+  </a>
+</div>
