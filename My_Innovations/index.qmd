@@ -1,0 +1,26 @@
+---
+title: "UAS-3 — My Innovations"
+---
+
+## Desain Platform Edukasi Interaktif Ketidaksetaraan Global
+
+Saya mengusulkan sebuah layanan digital berupa **platform edukasi interaktif**
+yang bertujuan mengkomunikasikan isu ketidaksetaraan global
+kepada masyarakat luas secara sederhana dan empatik.
+
+Platform ini menyajikan:
+- visualisasi data ketimpangan global yang mudah dipahami,
+- cerita singkat berbasis pengalaman nyata masyarakat terdampak,
+- simulasi sederhana yang menunjukkan bagaimana kebijakan
+  dapat memengaruhi distribusi kesejahteraan.
+
+Inovasi ini membangun kapasitas komunikasi KIPP
+dengan menggabungkan **data, narasi, dan interaksi**.
+Alih-alih menyajikan statistik yang abstrak,
+platform ini membantu pengguna memahami ketidaksetaraan
+sebagai realitas manusia, bukan sekadar angka.
+
+Tujuan akhirnya adalah meningkatkan literasi sosial,
+empati, dan kesadaran kritis,
+sehingga masyarakat dapat berpartisipasi lebih aktif
+dalam diskusi dan solusi terkait ketidaksetaraan global.

@@ -1,0 +1,29 @@
+---
+title: "UAS-4 — My Knowledge"
+---
+
+## Ketidaksetaraan Global dan Dampaknya bagi Masyarakat Dunia
+
+Ketidaksetaraan global mencakup kesenjangan pendapatan, kekayaan,
+pendidikan, kesehatan, dan akses teknologi antarindividu maupun antarnegara.
+Meskipun ekonomi dunia terus tumbuh,
+manfaat dari pertumbuhan tersebut terdistribusi secara sangat timpang.
+
+Laporan Oxfam (2024) menunjukkan bahwa sekitar **60% populasi dunia**
+mengalami penurunan kondisi ekonomi sejak pandemi COVID-19,
+sementara **1% orang terkaya dunia menguasai sekitar 43% kekayaan global**.
+Hal ini menunjukkan bahwa mayoritas manusia tidak menikmati
+hasil pertumbuhan ekonomi secara adil.
+
+Ketimpangan ekstrem berdampak pada meningkatnya kemiskinan relatif,
+ketidakstabilan sosial, serta melemahnya kohesi masyarakat.
+Penelitian juga menunjukkan bahwa ketimpangan ekonomi yang tinggi
+dapat menghambat pertumbuhan jangka panjang
+dan meningkatkan risiko konflik sosial-politik.
+
+Isu ini sejalan dengan **SDG 10: Reduced Inequalities**,
+yang menekankan pentingnya mengurangi kesenjangan
+baik di dalam maupun antarnegara.
+Pemahaman masyarakat terhadap ketidaksetaraan global
+menjadi langkah awal untuk mendorong kebijakan,
+inovasi, dan tindakan yang lebih adil dan berkelanjutan.
